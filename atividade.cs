@@ -15,7 +15,7 @@ class Program
 
         do
         {
-            Console.WriteLine("\n===== MENU =====");
+            Console.WriteLine("\nMenu:");
             Console.WriteLine("1 - Adicionar exercício");
             Console.WriteLine("2 - Listar exercícios");
             Console.WriteLine("3 - Buscar exercício por nome");
